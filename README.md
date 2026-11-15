@@ -4,6 +4,8 @@
 
 🔗 **[Открыть сайт](https://drozdtatsiana.github.io/surf/)**
 
+![Скриншот сайта MilaSofi](screenshot.png)
+
 ## Технологии
 
 - HTML5
